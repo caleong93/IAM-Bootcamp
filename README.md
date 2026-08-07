@@ -1,5 +1,3 @@
-# IAM-Bootcamp
-90-Day Identity and Access Management Bootcamp Portfolio
 # 🔐 Identity & Access Management Bootcamp Portfolio
 
 Welcome to my hands-on Identity & Access Management (IAM) portfolio.
