@@ -1,64 +1,69 @@
-# 🔐 Identity & Access Management Bootcamp Portfolio
-
-Welcome to my hands-on Identity & Access Management (IAM) portfolio.
-
-This repository documents my journey from retail leadership into IT by building a complete enterprise Windows Server environment from scratch.
-
-The purpose of this portfolio is to demonstrate practical skills in:
-
-- Active Directory Domain Services (AD DS)
-- Identity and Access Management (IAM)
-- Windows Server Administration
-- DNS
-- Group Policy
-- Microsoft Entra ID
-- PowerShell Automation
-- Windows Networking
-- User and Group Management
-- IT Documentation
-- Troubleshooting
-
----
-
-# Lab Environment
-
-| Component | Details |
-|-----------|---------|
-| Host Computer | Intel Mac |
-| RAM | 32 GB |
-| Hypervisor | Oracle VirtualBox 7.2.2 |
-| Domain Controller | DC01 |
-| Operating System | Windows Server 2022 Standard |
-
----
-
-# Bootcamp Progress
-
-| Project | Status |
-|----------|--------|
-| ✅ 01 - Lab Setup | Complete |
-| 🟡 02 - Windows Server Installation | In Progress |
-| ⏳ 03 - Active Directory | Coming Soon |
-| ⏳ 04 - Organizational Units | Coming Soon |
-| ⏳ 05 - User & Group Management | Coming Soon |
-| ⏳ 06 - Group Policy | Coming Soon |
-| ⏳ 07 - DNS | Coming Soon |
-| ⏳ 08 - PowerShell | Coming Soon |
-| ⏳ 09 - Microsoft Entra ID | Coming Soon |
-| ⏳ 10 - Hybrid Identity | Coming Soon |
-
----
-
 # About Me
 
-I earned a Bachelor's degree in Cybersecurity and created this portfolio to gain hands-on enterprise experience in Identity and Access Management.
+Hi, I'm Letta 👋
 
-Every project in this repository includes:
-- Objectives
-- Implementation steps
-- Troubleshooting
-- Screenshots
-- Lessons learned
-- Skills demonstrated
+I'm a cybersecurity professional transitioning into **Identity and Access Management (IAM)**, with a focus on building practical, hands-on experience in identity administration, access control, and security.
 
-This repository grows as I complete each stage of my 90-day IAM Bootcamp.
+I earned my **Bachelor's degree in Cybersecurity in 2019** and am now focused on developing the technical skills needed to build a career in IAM. Rather than relying solely on coursework, I'm building and documenting my own lab environment to gain practical experience with enterprise identity technologies.
+
+## 🔐 Current Focus
+
+I'm currently building an IAM home lab using:
+
+- Windows Server
+- Active Directory Domain Services (AD DS)
+- DNS
+- Organizational Units (OUs)
+- User and identity management
+- Security groups and access control
+- Group Policy
+- PowerShell automation
+- Microsoft Entra ID
+- Hybrid identity
+
+## 🧪 What I'm Building
+
+My IAM portfolio follows a structured, hands-on approach where I design and administer a fictional enterprise environment, **Apex Technologies**.
+
+Projects include:
+
+- Building a Windows Server environment
+- Deploying an Active Directory Domain Controller
+- Designing an enterprise OU structure
+- Provisioning and managing user identities
+- Implementing access control
+- Automating identity administration with PowerShell
+- Exploring cloud and hybrid identity
+- Developing an end-to-end IAM capstone
+
+Each project is documented with configuration details, screenshots, troubleshooting experiences, and lessons learned.
+
+## 🎯 Career Goal
+
+My goal is to transition into an **Identity and Access Management role**, where I can apply my cybersecurity background and hands-on experience to identity lifecycle management, authentication, authorization, access governance, and security.
+
+I'm particularly interested in opportunities involving:
+
+- Identity Administration
+- IAM Analyst
+- Access Management
+- Identity Governance
+- Active Directory Administration
+- Microsoft Entra ID
+- User Lifecycle Management
+- Privileged Access Management
+
+## 📚 Currently Learning
+
+- CompTIA Security+
+- Active Directory
+- Windows Server Administration
+- PowerShell
+- Microsoft Entra ID
+- IAM principles and practices
+
+## 📂 Portfolio
+
+This repository documents my progression from building the underlying infrastructure to administering identities and implementing access controls.
+
+> **Learn → Build → Troubleshoot → Document → Improve**
