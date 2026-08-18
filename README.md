@@ -2,7 +2,7 @@
 
 Hi, I'm Letta 👋
 
-I'm a cybersecurity professional transitioning into **Identity and Access Management (IAM)**, with a focus on building practical, hands-on experience in identity administration, access control, and security.
+I'm a cybersecurity graduate transitioning into **Identity and Access Management (IAM)**, with a focus on building practical, hands-on experience in identity administration, access control, and security.
 
 I earned my **Bachelor's degree in Cybersecurity in 2019** and am now focused on developing the technical skills needed to build a career in IAM. Rather than relying solely on coursework, I'm building and documenting my own lab environment to gain practical experience with enterprise identity technologies.
 
