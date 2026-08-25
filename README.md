@@ -2,13 +2,13 @@
 
 Hi, I'm Letta 👋
 
-I'm a cybersecurity graduate transitioning into **Identity and Access Management (IAM)**, with a focus on building practical, hands-on experience in identity administration, access control, and security.
+I'm a cybersecurity graduate transitioning into **Identity and Access Management (IAM)**, with a focus on building practical, hands-on experience in identity administration, access control, identity lifecycle management, and security.
 
-I earned my **Bachelor's degree in Cybersecurity in 2019** and am now focused on developing the technical skills needed to build a career in IAM. Rather than relying solely on coursework, I'm building and documenting my own lab environment to gain practical experience with enterprise identity technologies.
+I earned my **Bachelor's degree in Cybersecurity in 2019** and am now focused on developing the technical skills needed to build a career in IAM. Rather than relying solely on coursework, I'm building and documenting my own enterprise-style lab environment to develop practical experience with identity technologies and access management.
 
 ## 🔐 Current Focus
 
-I'm currently building an IAM home lab using:
+I'm currently building and administering an IAM home lab using:
 
 - Windows Server
 - Active Directory Domain Services (AD DS)
@@ -19,7 +19,11 @@ I'm currently building an IAM home lab using:
 - Group Policy
 - PowerShell automation
 - Microsoft Entra ID
+- Azure RBAC
 - Hybrid identity
+- Identity lifecycle management
+- Role-Based Access Control (RBAC)
+- Least-privilege access
 
 ## 🧪 What I'm Building
 
@@ -31,12 +35,16 @@ Projects include:
 - Deploying an Active Directory Domain Controller
 - Designing an enterprise OU structure
 - Provisioning and managing user identities
-- Implementing access control
+- Implementing security groups and access controls
 - Automating identity administration with PowerShell
-- Exploring cloud and hybrid identity
-- Developing an end-to-end IAM capstone
+- Managing role-based access
+- Implementing Joiner, Mover, and Leaver (JML) workflows
+- Demonstrating least-privilege principles
+- Separating privileged administrative identities from standard user accounts
+- Exploring Microsoft Entra ID and hybrid identity
+- Building an end-to-end IAM capstone
 
-Each project is documented with configuration details, screenshots, troubleshooting experiences, and lessons learned.
+Each project is documented with configuration details, screenshots, troubleshooting experiences, lessons learned, and evidence of the implementation.
 
 ## 🎯 Career Goal
 
@@ -53,17 +61,22 @@ I'm particularly interested in opportunities involving:
 - User Lifecycle Management
 - Privileged Access Management
 
-## 📚 Currently Learning
+## 📚 Currently Learning & Developing
 
 - CompTIA Security+
 - Active Directory
 - Windows Server Administration
 - PowerShell
 - Microsoft Entra ID
+- Azure RBAC
 - IAM principles and practices
+- Identity lifecycle management
+- Hybrid identity
 
 ## 📂 Portfolio
 
-This repository documents my progression from building the underlying infrastructure to administering identities and implementing access controls.
+This repository documents my progression from building the underlying infrastructure to administering identities, implementing access controls, managing identity lifecycles, and designing an enterprise IAM environment.
+
+My approach is simple:
 
 > **Learn → Build → Troubleshoot → Document → Improve**
